@@ -13,7 +13,6 @@ namespace XF.MicroCharts
 {
     public partial class MainPage : ContentPage
     {
-       // public Random Random = new Random();
         List<Entry> entries = new List<Entry>
         {
             
@@ -21,31 +20,31 @@ namespace XF.MicroCharts
             {
                 Color=SKColors.LightSalmon,
                 Label ="Carlos",
-                ValueLabel = "200 %"
+                ValueLabel = "$200"
             },
             new Entry(400)
             {
                 Color = SKColors.LightSeaGreen,
                 Label = "Enrique",
-                ValueLabel = "400"
+                ValueLabel = "$400"
             },
             new Entry(730)
             {
               Color = SKColors.LightBlue,
                 Label = "Elena",
-                ValueLabel = "730"
+                ValueLabel = "$730"
             },
             new Entry(555)
             {
               Color = SKColors.LightGray,
                 Label = "Antonio",
-                ValueLabel = "555"
+                ValueLabel = "$555"
             },
             new Entry(50)
             {
               Color = SKColors.LightCoral,
                 Label = "Saul",
-                ValueLabel = "50",
+                ValueLabel = "$50",
             },
             };
         public MainPage()
