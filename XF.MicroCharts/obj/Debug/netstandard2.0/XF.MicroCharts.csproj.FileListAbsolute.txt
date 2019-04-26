@@ -1,0 +1,11 @@
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\bin\Debug\netstandard2.0\XF.MicroCharts.deps.json
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\bin\Debug\netstandard2.0\XF.MicroCharts.dll
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\bin\Debug\netstandard2.0\XF.MicroCharts.pdb
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XF.MicroCharts.csproj.CoreCompileInputs.cache
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XF.MicroCharts.AssemblyInfoInputs.cache
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XF.MicroCharts.AssemblyInfo.cs
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XF.MicroCharts.dll
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XF.MicroCharts.pdb
