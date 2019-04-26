@@ -13,35 +13,37 @@ namespace XF.MicroCharts
 {
     public partial class MainPage : ContentPage
     {
+       // public Random Random = new Random();
         List<Entry> entries = new List<Entry>
         {
-            new Entry(200)
+            
+        new Entry(200)
             {
-               // Color=SKColor.Parse("#FF1943"),
+                Color=SKColors.LightSalmon,
                 Label ="Carlos",
                 ValueLabel = "200"
             },
             new Entry(400)
             {
-               // Color = SKColor.Parse("00BFFF"),
+                Color = SKColors.LightSeaGreen,
                 Label = "Enrique",
                 ValueLabel = "400"
             },
             new Entry(730)
             {
-              //  Color = SKColor.Parse("00EEFF"),
+              Color = SKColors.LightBlue,
                 Label = "Elena",
                 ValueLabel = "730"
             },
             new Entry(555)
             {
-              //  Color = SKColor.Parse("00BBFF"),
+              Color = SKColors.LightGray,
                 Label = "Antonio",
                 ValueLabel = "555"
             },
             new Entry(50)
             {
-              //  Color =  SKColor.Parse("#00CED1"),
+              Color = SKColors.LightCoral,
                 Label = "Saul",
                 ValueLabel = "50"
             },
@@ -49,9 +51,9 @@ namespace XF.MicroCharts
         public MainPage()
         {
             InitializeComponent();
-            Chart1.Chart = new RadialGaugeChart() { Entries = entries };
+            Chart1.Chart = new RadialGaugeChart() { Entries = entries};
             Chart2.Chart = new LineChart() { Entries = entries };
-            Chart3.Chart = new DonutChart() { Entries = entries };
+            Chart3.Chart = new DonutChart() { Entries = entries};
             Chart4.Chart = new BarChart() { Entries = entries };
             Chart5.Chart = new PointChart() { Entries = entries };
             Chart6.Chart = new RadarChart() { Entries = entries };
