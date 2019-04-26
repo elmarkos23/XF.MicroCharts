@@ -21,7 +21,7 @@ namespace XF.MicroCharts
             {
                 Color=SKColors.LightSalmon,
                 Label ="Carlos",
-                ValueLabel = "200"
+                ValueLabel = "200 %"
             },
             new Entry(400)
             {
@@ -45,7 +45,7 @@ namespace XF.MicroCharts
             {
               Color = SKColors.LightCoral,
                 Label = "Saul",
-                ValueLabel = "50"
+                ValueLabel = "50",
             },
             };
         public MainPage()
