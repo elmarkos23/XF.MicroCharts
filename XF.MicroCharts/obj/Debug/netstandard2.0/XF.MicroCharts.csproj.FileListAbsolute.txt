@@ -9,3 +9,4 @@ D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\
 D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XamlC.stamp
 D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XF.MicroCharts.dll
 D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XF.MicroCharts.pdb
+D:\GitHub\XF.MicroCharts\XF.MicroCharts\XF.MicroCharts\obj\Debug\netstandard2.0\XF.MicroCharts.csprojAssemblyReference.cache
